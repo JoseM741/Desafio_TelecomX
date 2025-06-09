@@ -3,7 +3,7 @@ Análisis de Abandono de Clientes, Mediante Pandas y Numpy
 
 ## 📌 Descripción
 
-Este proyecto tiene como objetivo realizar un análisis de una empresa que enfrenta una **alta tasa de cancelaciones de clientes (churn)** y necesita comprender los factores que influyen en la pérdida de usuarios. Como asistente de análisis de datos, se recopilará, procesará y se analizarán los datos disponibles para extraer información valiosa. Estos insights permitirán al equipo de Data Science avanzar en la creación de modelos predictivos y definir estrategias orientadas a mejorar la retención.
+Este proyecto tiene como objetivo realizar un análisis de una empresa que enfrenta una **alta tasa de cancelaciones de clientes (churn)** y necesita comprender los factores que influyen en la pérdida de usuarios. Como asistente de análisis de datos, recopilaremos, procesaremos y analizaremos los datos disponibles para extraer información valiosa. Estos insights permitirán al equipo de Data Science avanzar en la creación de modelos predictivos y definir estrategias orientadas a mejorar la retención.
 
 ---
 
@@ -24,7 +24,7 @@ Este proyecto tiene como objetivo realizar un análisis de una empresa que enfre
 - **Matplotlib**
 - **Seaborn**
 - **Requests** (para la obtención de datos desde API)
-- **Jupyter Notebook**
+- **colabgoogle**
 
 ---
 
@@ -33,7 +33,8 @@ Este proyecto tiene como objetivo realizar un análisis de una empresa que enfre
 ```
 📁 telecom_churn_analysis/
 ├── 📄 README.md
-├── 📄 requirements.txt
+├── 📄 graficos.jpeg
+├── 📄 archivo.ipynb
 ├── 📁 data/
 │   └── (datos extraídos)
 ├── 📁 notebooks/
@@ -79,12 +80,11 @@ A partir de este análisis preliminar, se identificaron variables clave asociada
 
 ---
 
-## 📬 Contacto
+## :pencil: Autor
 
-Si tienes alguna duda o sugerencia sobre este proyecto, no dudes en escribirme:
+José Monje
 
-📧 [tu.email@ejemplo.com]  
-📱 [Tu LinkedIn](https://www.linkedin.com/in/tuusuario)
+📧 https://github.com/JoseM741
 
 ---
 
