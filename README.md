@@ -68,12 +68,8 @@ A partir del análisis realizado, se identificaron variables claves asociadas a 
    ```bash
    git clone https://github.com/JoseM741/Desafio_TelecomX/
    ```
-2. Instalar las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ejecutar los notebooks en colab.google
-
+2. Ejecutar los notebooks en colab.google
+  
 ---
 
 ## :pencil: Autor
