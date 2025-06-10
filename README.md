@@ -31,16 +31,12 @@ Este proyecto tiene como objetivo realizar un análisis de una empresa que enfre
 ## 📂 Estructura del Proyecto
 
 ```
-📁 telecom_churn_analysis/
+📁 Desafio_TelecomX
 ├── 📄 README.md
-├── 📄 graficos.jpeg
-├── 📄 archivo.ipynb
-├── 📁 data/
-│   └── (datos extraídos)
-├── 📁 notebooks/
-│   └── churn_analysis.ipynb
-└── 📁 reports/
-    └── eda_report.pdf
+├── 📄 Desafio_TelecomX.ipynb
+├── 📄 informeFinal.ipynb
+├── 📁 graficos
+    └── (*.png)
 ```
 
 ---
@@ -59,10 +55,10 @@ Este proyecto tiene como objetivo realizar un análisis de una empresa que enfre
 
 ## 📑 Conclusiones y Próximos Pasos
 
-A partir de este análisis preliminar, se identificaron variables clave asociadas a la pérdida de clientes. Los resultados servirán como insumo para:
+A partir del análisis realizado, se identificaron variables claves asociadas a la pérdida de clientes. Los resultados nos servirán para posteriormente:
 
-- Desarrollar modelos de predicción de churn.
-- Proponer estrategias de retención y fidelización.
+- Desarrollar modelos de predicción de Abandono.
+- Proponer estrategias tanto de retención y fidelización de clientes
 
 ---
 
@@ -70,13 +66,13 @@ A partir de este análisis preliminar, se identificaron variables clave asociada
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/telecom_churn_analysis.git
+   git clone https://github.com/JoseM741/Desafio_TelecomX/
    ```
 2. Instalar las dependencias:
    ```bash
    pip install -r requirements.txt
    ```
-3. Ejecutar los notebooks en Jupyter.
+3. Ejecutar los notebooks en colab.google
 
 ---
 
@@ -87,7 +83,3 @@ José Monje
 📧 https://github.com/JoseM741
 
 ---
-
-## 📃 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
