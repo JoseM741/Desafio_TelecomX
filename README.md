@@ -32,11 +32,11 @@ Este proyecto tiene como objetivo realizar un análisis de una empresa que enfre
 
 ```
 📁 Desafio_TelecomX
-├── 📄 README.md
-├── 📄 Desafio_TelecomX.ipynb
-├── 📄 informeFinal.ipynb
-├── 📁 graficos
+├── 📁 Gráficos
     └── (*.png)
+├── 📄 Desafio_TelecomX.ipynb
+├── 📄 InformeFinal.ipynb
+├── 📄 README.md
 ```
 
 ---
